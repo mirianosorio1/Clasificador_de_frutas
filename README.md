@@ -11,4 +11,6 @@ Otro reto que supone realizar este proyecto es realizar un procesamiento de las 
 
 Video de youtube: https://youtu.be/-FlVS1eFevI
 
+Datos tomados de: https://www.kaggle.com/chrisfilo/fruit-recognition
+
 ![alt text](https://github.com/mirianosorio1/Clasificador_de_frutas/blob/main/MicrosoftTeams-image%20(2).png?raw=true)
